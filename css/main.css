@@ -1,0 +1,75 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.main {
+  position:relative;
+  top:71.22px;
+  width: 100%;
+}
+.sec-container {
+  height:600px;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+  color: #252525;
+}
+
+/* -------------- S1 -------------- */
+
+.sec-1 {
+  background: #E0F3FF;
+  
+
+}
+
+/* -------------- S2 -------------- */
+.sec-2 {
+  background: #B4C3CC;
+}
+
+/* -------------- S3 -------------- */
+.sec-3 {
+  background: #E0F3FF;
+}
+
+.sec-box {
+  display: inline;
+  float: left;
+}
+
+.b-1 {
+  max-width: 80px;
+}
+
+.b-2 {
+  max-width: 160px;
+}
+  
+.b-3 {
+  width: 240px;
+}
+  
+.b-4 {
+  width: 320px;
+}
+  
+.b-6 {
+  max-width: 480px;
+}
+  
+.b-8 {
+  width: 640px;
+}
+  
+.b-12 {
+  max-width: 960px;
+}
+  
+
+
+
+
+
+

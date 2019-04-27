@@ -1,0 +1,67 @@
+.menu {
+  background: #707A80;
+  padding: 20px;
+  color: #E0F3FF;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index:2;
+}
+
+.menu-container {
+  /* background: red; */
+  max-width: 960px;
+  margin: 0 auto;
+}  
+
+.menu-container::after, .menu-container::before  {
+  content:'';
+  display:table;
+  clear:both;
+}  
+
+.menu-logo img {
+  max-width:150px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+  float: left;
+}
+
+.menu-nav {
+  float: right;
+  padding: 5px;
+}
+
+.menu-nav li {
+  display: inline;
+}  
+
+.menu-nav a {
+  /* background: blue; */
+  padding: 7px 7px;
+  text-decoration: none;
+  font-size: 1.125em;
+  border-radius: 15%;
+  color: #E0F3FF;
+
+}
+
+.menu-nav a:hover {
+  background: rgba(10, 10, 10, 0.4);
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
